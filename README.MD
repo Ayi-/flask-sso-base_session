@@ -6,11 +6,11 @@
 
 时序图：
 
-![](http://image.qn.aiiyi.top/flask-sso-1.png)
+![](https://raw.githubusercontent.com/Ayi-/flask-sso-base_session/master/flask-sso-1.png)
 
 原理步骤：
 
-![](http://image.qn.aiiyi.top/flask-sso-2.png)
+![](https://raw.githubusercontent.com/Ayi-/flask-sso-base_session/master/flask-sso-2.png)
 
 ### 流程
 

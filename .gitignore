@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+Dockerfile
+app-1/.idea/
+app-2/.idea/
+sso/.idea/
